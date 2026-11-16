@@ -1,8 +1,6 @@
 <!-- markdownlint-disable MD013 -->
 # Marketing & Product Analytics Portfolio
 
-**Ferdinard** · University of Ghana
-
 <!-- Add when you have them: Tableau Public profile, LinkedIn, email. -->
 
 Three end-to-end analytics projects with a fintech focus. Each starts from a business question and ends with a recommendation, using SQL, Python and Tableau.
