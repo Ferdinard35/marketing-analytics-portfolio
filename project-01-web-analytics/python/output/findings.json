@@ -1,0 +1,696 @@
+{
+  "period": "30 Mar to 28 Jun 2026",
+  "kpi": {
+    "sessions": 31167,
+    "users": 24559,
+    "signups": 2426,
+    "conversion_pct": 7.78,
+    "engaged_rate_pct": 59.87,
+    "new_user_session_pct": 67.14,
+    "begin_rate_pct": 17.67,
+    "otp_rate_pct": 65.89,
+    "completion_rate_pct": 66.87,
+    "cost_ghs": 22218.16,
+    "paid_signups": 885,
+    "cost_per_paid_signup": 25.11
+  },
+  "channels": [
+    {
+      "channel_group": "Paid Social",
+      "sessions": 10302,
+      "session_share_pct": 33.05,
+      "signups": 453,
+      "signup_share_pct": 18.67,
+      "begin_rate_pct": 10.9,
+      "conversion_pct": 4.4,
+      "cost_ghs": 9920.64,
+      "cost_per_signup": 21.9
+    },
+    {
+      "channel_group": "Organic Search",
+      "sessions": 7186,
+      "session_share_pct": 23.06,
+      "signups": 518,
+      "signup_share_pct": 21.35,
+      "begin_rate_pct": 17.53,
+      "conversion_pct": 7.21,
+      "cost_ghs": NaN,
+      "cost_per_signup": NaN
+    },
+    {
+      "channel_group": "Direct",
+      "sessions": 5234,
+      "session_share_pct": 16.79,
+      "signups": 691,
+      "signup_share_pct": 28.48,
+      "begin_rate_pct": 28.58,
+      "conversion_pct": 13.2,
+      "cost_ghs": NaN,
+      "cost_per_signup": NaN
+    },
+    {
+      "channel_group": "Paid Search",
+      "sessions": 5025,
+      "session_share_pct": 16.12,
+      "signups": 432,
+      "signup_share_pct": 17.81,
+      "begin_rate_pct": 18.43,
+      "conversion_pct": 8.6,
+      "cost_ghs": 12297.52,
+      "cost_per_signup": 28.47
+    },
+    {
+      "channel_group": "Email",
+      "sessions": 1335,
+      "session_share_pct": 4.28,
+      "signups": 213,
+      "signup_share_pct": 8.78,
+      "begin_rate_pct": 33.71,
+      "conversion_pct": 15.96,
+      "cost_ghs": NaN,
+      "cost_per_signup": NaN
+    },
+    {
+      "channel_group": "Referral",
+      "sessions": 1234,
+      "session_share_pct": 3.96,
+      "signups": 98,
+      "signup_share_pct": 4.04,
+      "begin_rate_pct": 15.15,
+      "conversion_pct": 7.94,
+      "cost_ghs": NaN,
+      "cost_per_signup": NaN
+    },
+    {
+      "channel_group": "Organic Social",
+      "sessions": 851,
+      "session_share_pct": 2.73,
+      "signups": 21,
+      "signup_share_pct": 0.87,
+      "begin_rate_pct": 7.52,
+      "conversion_pct": 2.47,
+      "cost_ghs": NaN,
+      "cost_per_signup": NaN
+    }
+  ],
+  "campaigns": [
+    {
+      "campaign": "TT_Spark_CashbackChallenge",
+      "platform": "TikTok Ads",
+      "clicks": 3226,
+      "cost_ghs": 1220.27,
+      "cpc_ghs": 0.38,
+      "sessions": 2707,
+      "signups": 12,
+      "conversion_pct": 0.44,
+      "cost_per_signup": 101.69
+    },
+    {
+      "campaign": "META_Lookalike_Remitters",
+      "platform": "Meta Ads",
+      "clicks": 1932,
+      "cost_ghs": 3105.63,
+      "cpc_ghs": 1.61,
+      "sessions": 1617,
+      "signups": 67,
+      "conversion_pct": 4.14,
+      "cost_per_signup": 46.35
+    },
+    {
+      "campaign": "GS_Generic_MobileWallet",
+      "platform": "Google Ads",
+      "clicks": 1859,
+      "cost_ghs": 4092.22,
+      "cpc_ghs": 2.2,
+      "sessions": 1554,
+      "signups": 90,
+      "conversion_pct": 5.79,
+      "cost_per_signup": 45.47
+    },
+    {
+      "campaign": "GS_Generic_SendMoney",
+      "platform": "Google Ads",
+      "clicks": 2571,
+      "cost_ghs": 7012.18,
+      "cpc_ghs": 2.73,
+      "sessions": 2165,
+      "signups": 170,
+      "conversion_pct": 7.85,
+      "cost_per_signup": 41.25
+    },
+    {
+      "campaign": "META_Prospecting_Students",
+      "platform": "Meta Ads",
+      "clicks": 3821,
+      "cost_ghs": 3998.43,
+      "cpc_ghs": 1.05,
+      "sessions": 3215,
+      "signups": 118,
+      "conversion_pct": 3.67,
+      "cost_per_signup": 33.88
+    },
+    {
+      "campaign": "TT_InFeed_CampusAmbassadors",
+      "platform": "TikTok Ads",
+      "clicks": 1949,
+      "cost_ghs": 824.13,
+      "cpc_ghs": 0.42,
+      "sessions": 1637,
+      "signups": 85,
+      "conversion_pct": 5.19,
+      "cost_per_signup": 9.7
+    },
+    {
+      "campaign": "GS_Brand_CediFlow",
+      "platform": "Google Ads",
+      "clicks": 1418,
+      "cost_ghs": 1193.12,
+      "cpc_ghs": 0.84,
+      "sessions": 1180,
+      "signups": 166,
+      "conversion_pct": 14.07,
+      "cost_per_signup": 7.19
+    },
+    {
+      "campaign": "META_Retargeting_SiteVisitors",
+      "platform": "Meta Ads",
+      "clicks": 1036,
+      "cost_ghs": 772.18,
+      "cpc_ghs": 0.75,
+      "sessions": 846,
+      "signups": 152,
+      "conversion_pct": 17.97,
+      "cost_per_signup": 5.08
+    }
+  ],
+  "unattributed_paid_sessions": 406,
+  "funnel_all": {
+    "sessions": 31167,
+    "began_signup": 5506,
+    "otp_verified": 3628,
+    "signed_up": 2426,
+    "begin_rate_pct": 17.67,
+    "otp_rate_pct": 65.89,
+    "completion_rate_pct": 66.87,
+    "conversion_pct": 7.78
+  },
+  "funnel_by_device": [
+    {
+      "device_category": "mobile",
+      "sessions": 24032,
+      "began_signup": 4002,
+      "otp_verified": 2654,
+      "signed_up": 1609,
+      "begin_rate_pct": 16.65,
+      "otp_rate_pct": 66.32,
+      "completion_rate_pct": 60.63,
+      "conversion_pct": 6.7
+    },
+    {
+      "device_category": "desktop",
+      "sessions": 6257,
+      "began_signup": 1334,
+      "otp_verified": 863,
+      "signed_up": 734,
+      "begin_rate_pct": 21.32,
+      "otp_rate_pct": 64.69,
+      "completion_rate_pct": 85.05,
+      "conversion_pct": 11.73
+    },
+    {
+      "device_category": "tablet",
+      "sessions": 878,
+      "began_signup": 170,
+      "otp_verified": 111,
+      "signed_up": 83,
+      "begin_rate_pct": 19.36,
+      "otp_rate_pct": 65.29,
+      "completion_rate_pct": 74.77,
+      "conversion_pct": 9.45
+    }
+  ],
+  "test_mobile_vs_desktop_completion": {
+    "p1_pct": 60.63,
+    "n1": 2654,
+    "p2_pct": 85.05,
+    "n2": 863,
+    "diff_pts": -24.43,
+    "ci95_pts": [
+      -27.45,
+      -21.41
+    ],
+    "z": -13.22,
+    "p_value": 6.9e-40
+  },
+  "sizing_mobile_form": {
+    "mobile_sessions_share_pct": 77.11,
+    "mobile_verified": 2654,
+    "mobile_completed": 1609,
+    "mobile_abandoned_after_otp": 1045,
+    "extra_signups_at_tablet_rate": 376,
+    "extra_signups_at_desktop_rate": 648,
+    "extra_signups_closing_half_the_gap": 324,
+    "as_pct_of_all_signups_half_gap": 13.4
+  },
+  "landing_pages": [
+    {
+      "landing_page": "/",
+      "sessions": 10757,
+      "bounce_rate_pct": 31.49,
+      "begin_rate_pct": 20.59,
+      "signups": 975,
+      "conversion_pct": 9.06
+    },
+    {
+      "landing_page": "/send-money",
+      "sessions": 4767,
+      "bounce_rate_pct": 37.57,
+      "begin_rate_pct": 16.76,
+      "signups": 341,
+      "conversion_pct": 7.15
+    },
+    {
+      "landing_page": "/students",
+      "sessions": 4671,
+      "bounce_rate_pct": 43.7,
+      "begin_rate_pct": 10.45,
+      "signups": 194,
+      "conversion_pct": 4.15
+    },
+    {
+      "landing_page": "/promo/cashback",
+      "sessions": 3283,
+      "bounce_rate_pct": 73.9,
+      "begin_rate_pct": 1.8,
+      "signups": 22,
+      "conversion_pct": 0.67
+    },
+    {
+      "landing_page": "/signup",
+      "sessions": 2756,
+      "bounce_rate_pct": 22.24,
+      "begin_rate_pct": 49.2,
+      "signups": 615,
+      "conversion_pct": 22.31
+    },
+    {
+      "landing_page": "/fees",
+      "sessions": 1753,
+      "bounce_rate_pct": 36.97,
+      "begin_rate_pct": 16.49,
+      "signups": 151,
+      "conversion_pct": 8.61
+    },
+    {
+      "landing_page": "/pay-bills",
+      "sessions": 1266,
+      "bounce_rate_pct": 38.31,
+      "begin_rate_pct": 14.38,
+      "signups": 89,
+      "conversion_pct": 7.03
+    },
+    {
+      "landing_page": "/blog/momo-fees-explained",
+      "sessions": 1234,
+      "bounce_rate_pct": 58.27,
+      "begin_rate_pct": 4.78,
+      "signups": 30,
+      "conversion_pct": 2.43
+    },
+    {
+      "landing_page": "/blog/send-money-to-ghana-from-uk",
+      "sessions": 680,
+      "bounce_rate_pct": 58.53,
+      "begin_rate_pct": 8.68,
+      "signups": 9,
+      "conversion_pct": 1.32
+    }
+  ],
+  "cashback_by_channel": [
+    {
+      "channel_group": "Paid Social",
+      "cashback_sessions": 2782,
+      "cashback_conversion_pct": 0.43,
+      "other_sessions": 7520,
+      "other_conversion_pct": 5.86
+    },
+    {
+      "channel_group": "Organic Social",
+      "cashback_sessions": 259,
+      "cashback_conversion_pct": 1.16,
+      "other_sessions": 592,
+      "other_conversion_pct": 3.04
+    },
+    {
+      "channel_group": "Email",
+      "cashback_sessions": 242,
+      "cashback_conversion_pct": 2.89,
+      "other_sessions": 1093,
+      "other_conversion_pct": 18.85
+    }
+  ],
+  "cashback_page": {
+    "sessions": 3283,
+    "session_share_pct": 10.53,
+    "signups": 22,
+    "conversion_pct": 0.67,
+    "rest_of_site_conversion_pct": 8.62
+  },
+  "test_cashback_within_email": {
+    "p1_pct": 2.89,
+    "n1": 242,
+    "p2_pct": 18.85,
+    "n2": 1093,
+    "diff_pts": -15.95,
+    "ci95_pts": [
+      -19.09,
+      -12.82
+    ],
+    "z": -6.13,
+    "p_value": 8.6e-10
+  },
+  "test_spark_vs_campus_conversion": {
+    "p1_pct": 0.44,
+    "n1": 2707,
+    "p2_pct": 5.19,
+    "n2": 1637,
+    "diff_pts": -4.75,
+    "ci95_pts": [
+      -5.85,
+      -3.65
+    ],
+    "z": -10.27,
+    "p_value": 1e-24
+  },
+  "sizing_cashback_page": {
+    "spark_sessions": 2707,
+    "spark_cost_ghs": 1220.27,
+    "spark_signups": 12,
+    "spark_cost_per_signup": 101.69,
+    "signups_at_campus_rate": 141,
+    "signups_at_half_campus_rate": 70,
+    "cost_per_signup_at_half_campus_rate": 17.36
+  },
+  "remitters_by_country": [
+    {
+      "country": "Ghana",
+      "sessions": 991,
+      "session_share_pct": 61.29,
+      "began_signup": 128,
+      "otp_verified": 92,
+      "signups": 62,
+      "conversion_pct": 6.26
+    },
+    {
+      "country": "United Kingdom",
+      "sessions": 387,
+      "session_share_pct": 23.93,
+      "began_signup": 57,
+      "otp_verified": 5,
+      "signups": 3,
+      "conversion_pct": 0.78
+    },
+    {
+      "country": "United States",
+      "sessions": 239,
+      "session_share_pct": 14.78,
+      "began_signup": 32,
+      "otp_verified": 2,
+      "signups": 2,
+      "conversion_pct": 0.84
+    }
+  ],
+  "sizing_remitters": {
+    "cost_ghs": 3105.63,
+    "sessions": 1617,
+    "abroad_sessions": 626,
+    "abroad_share_pct": 38.7,
+    "abroad_signups": 5,
+    "abroad_begin_rate_pct": 14.22,
+    "abroad_otp_rate_pct": 7.87,
+    "ghana_conversion_pct": 6.26,
+    "spend_on_abroad_clicks_ghs": 1202.3,
+    "cost_per_signup_now": 46.35,
+    "cost_per_signup_ghana_only": 30.7
+  },
+  "test_remitters_abroad_vs_ghana_conversion": {
+    "p1_pct": 0.8,
+    "n1": 626,
+    "p2_pct": 6.26,
+    "n2": 991,
+    "diff_pts": -5.46,
+    "ci95_pts": [
+      -7.12,
+      -3.8
+    ],
+    "z": -5.36,
+    "p_value": 8.1e-08
+  },
+  "abroad_all_channels": {
+    "sessions": 2213,
+    "session_share_pct": 7.1,
+    "began_signup": 390,
+    "begin_rate_pct": 17.62,
+    "signups": 10,
+    "conversion_pct": 0.45
+  },
+  "ghana_regions": [
+    {
+      "region": "Greater Accra",
+      "sessions": 14111,
+      "signups": 1088,
+      "conversion_pct": 7.71,
+      "paid_share_pct": 57.37
+    },
+    {
+      "region": "Ashanti",
+      "sessions": 5290,
+      "signups": 560,
+      "conversion_pct": 10.59,
+      "paid_share_pct": 41.51
+    },
+    {
+      "region": "Central",
+      "sessions": 1960,
+      "signups": 164,
+      "conversion_pct": 8.37,
+      "paid_share_pct": 52.09
+    },
+    {
+      "region": "Western",
+      "sessions": 1762,
+      "signups": 158,
+      "conversion_pct": 8.97,
+      "paid_share_pct": 42.4
+    },
+    {
+      "region": "Eastern",
+      "sessions": 1474,
+      "signups": 110,
+      "conversion_pct": 7.46,
+      "paid_share_pct": 41.38
+    },
+    {
+      "region": "Northern",
+      "sessions": 1417,
+      "signups": 106,
+      "conversion_pct": 7.48,
+      "paid_share_pct": 42.7
+    },
+    {
+      "region": "(not set)",
+      "sessions": 1143,
+      "signups": 71,
+      "conversion_pct": 6.21,
+      "paid_share_pct": 46.98
+    },
+    {
+      "region": "Volta",
+      "sessions": 921,
+      "signups": 81,
+      "conversion_pct": 8.79,
+      "paid_share_pct": 40.61
+    },
+    {
+      "region": "Bono",
+      "sessions": 876,
+      "signups": 78,
+      "conversion_pct": 8.9,
+      "paid_share_pct": 43.04
+    }
+  ],
+  "region_mix_adjusted": [
+    {
+      "region": "Greater Accra",
+      "sessions": 14111,
+      "conversion_pct": 7.71,
+      "paid_share_pct": 57.37,
+      "conversion_at_accra_mix_pct": 7.71
+    },
+    {
+      "region": "Ashanti",
+      "sessions": 5290,
+      "conversion_pct": 10.59,
+      "paid_share_pct": 41.51,
+      "conversion_at_accra_mix_pct": 10.19
+    }
+  ],
+  "test_ashanti_vs_accra_conversion": {
+    "p1_pct": 10.59,
+    "n1": 5290,
+    "p2_pct": 7.71,
+    "n2": 14111,
+    "diff_pts": 2.88,
+    "ci95_pts": [
+      1.94,
+      3.81
+    ],
+    "z": 6.4,
+    "p_value": 1.6e-10
+  },
+  "paid_sessions_by_region_share_pct": {
+    "Greater Accra": 55.6,
+    "Ashanti": 15.1
+  },
+  "incident_ios_otp": {
+    "window": [
+      "2026-05-18",
+      "2026-05-29"
+    ],
+    "days": 12,
+    "ios_begins_in_window": 128,
+    "ios_otp_in_window": 27,
+    "ios_otp_rate_in_window_pct": 21.1,
+    "ios_otp_rate_outside_pct": 71.1,
+    "android_otp_rate_in_window_pct": 68.3,
+    "android_otp_rate_outside_pct": 72.8,
+    "expected_otp_in_window": 91.0,
+    "ios_completion_rate_pct": 60.0,
+    "estimated_lost_signups": 38,
+    "signups_in_window": 305,
+    "lost_as_pct_of_window_signups": 11.2,
+    "site_conversion_in_window_pct": 6.45,
+    "site_conversion_prior_fortnight_pct": 7.66,
+    "ios_share_of_ghana_sessions_pct": 16.8,
+    "test": {
+      "p1_pct": 21.09,
+      "n1": 128,
+      "p2_pct": 71.1,
+      "n2": 692,
+      "diff_pts": -50.0,
+      "ci95_pts": [
+        -57.84,
+        -42.17
+      ],
+      "z": -10.78,
+      "p_value": 4.2e-27
+    }
+  },
+  "new_vs_returning": [
+    {
+      "visitor_type": "returning",
+      "sessions": 10240,
+      "signups": 1299,
+      "conversion_pct": 12.69
+    },
+    {
+      "visitor_type": "new",
+      "sessions": 20927,
+      "signups": 1127,
+      "conversion_pct": 5.39
+    }
+  ],
+  "weekly_trend": [
+    {
+      "week_start": "2026-03-30",
+      "sessions": 1594,
+      "signups": 140,
+      "conversion_pct": 8.78,
+      "cost_ghs": 1286.39
+    },
+    {
+      "week_start": "2026-04-06",
+      "sessions": 1818,
+      "signups": 144,
+      "conversion_pct": 7.92,
+      "cost_ghs": 1231.97
+    },
+    {
+      "week_start": "2026-04-13",
+      "sessions": 2088,
+      "signups": 185,
+      "conversion_pct": 8.86,
+      "cost_ghs": 1671.39
+    },
+    {
+      "week_start": "2026-04-20",
+      "sessions": 2191,
+      "signups": 164,
+      "conversion_pct": 7.49,
+      "cost_ghs": 1801.24
+    },
+    {
+      "week_start": "2026-04-27",
+      "sessions": 2937,
+      "signups": 231,
+      "conversion_pct": 7.87,
+      "cost_ghs": 1856.13
+    },
+    {
+      "week_start": "2026-05-04",
+      "sessions": 2605,
+      "signups": 200,
+      "conversion_pct": 7.68,
+      "cost_ghs": 1761.06
+    },
+    {
+      "week_start": "2026-05-11",
+      "sessions": 2593,
+      "signups": 198,
+      "conversion_pct": 7.64,
+      "cost_ghs": 1749.86
+    },
+    {
+      "week_start": "2026-05-18",
+      "sessions": 2679,
+      "signups": 170,
+      "conversion_pct": 6.35,
+      "cost_ghs": 1891.31
+    },
+    {
+      "week_start": "2026-05-25",
+      "sessions": 2782,
+      "signups": 189,
+      "conversion_pct": 6.79,
+      "cost_ghs": 2010.17
+    },
+    {
+      "week_start": "2026-06-01",
+      "sessions": 2675,
+      "signups": 214,
+      "conversion_pct": 8.0,
+      "cost_ghs": 1836.11
+    },
+    {
+      "week_start": "2026-06-08",
+      "sessions": 2696,
+      "signups": 189,
+      "conversion_pct": 7.01,
+      "cost_ghs": 1820.1
+    },
+    {
+      "week_start": "2026-06-15",
+      "sessions": 2243,
+      "signups": 199,
+      "conversion_pct": 8.87,
+      "cost_ghs": 1624.0
+    },
+    {
+      "week_start": "2026-06-22",
+      "sessions": 2266,
+      "signups": 203,
+      "conversion_pct": 8.96,
+      "cost_ghs": 1678.43
+    }
+  ]
+}

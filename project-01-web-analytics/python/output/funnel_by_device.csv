@@ -1,0 +1,4 @@
+device_category,sessions,began_signup,otp_verified,signed_up,begin_rate_pct,otp_rate_pct,completion_rate_pct,conversion_pct
+mobile,24032,4002,2654,1609,16.65,66.32,60.63,6.7
+desktop,6257,1334,863,734,21.32,64.69,85.05,11.73
+tablet,878,170,111,83,19.36,65.29,74.77,9.45

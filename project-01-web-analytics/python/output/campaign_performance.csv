@@ -1,0 +1,9 @@
+campaign,platform,clicks,cost_ghs,cpc_ghs,sessions,signups,conversion_pct,cost_per_signup
+TT_Spark_CashbackChallenge,TikTok Ads,3226,1220.27,0.38,2707,12,0.44,101.69
+META_Lookalike_Remitters,Meta Ads,1932,3105.63,1.61,1617,67,4.14,46.35
+GS_Generic_MobileWallet,Google Ads,1859,4092.22,2.2,1554,90,5.79,45.47
+GS_Generic_SendMoney,Google Ads,2571,7012.18,2.73,2165,170,7.85,41.25
+META_Prospecting_Students,Meta Ads,3821,3998.43,1.05,3215,118,3.67,33.88
+TT_InFeed_CampusAmbassadors,TikTok Ads,1949,824.13,0.42,1637,85,5.19,9.7
+GS_Brand_CediFlow,Google Ads,1418,1193.12,0.84,1180,166,14.07,7.19
+META_Retargeting_SiteVisitors,Meta Ads,1036,772.18,0.75,846,152,17.97,5.08

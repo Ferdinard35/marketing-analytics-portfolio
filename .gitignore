@@ -1,0 +1,9 @@
+# Instructor material: answer keys, dataset generators and ground truth
+apprenticeship/_instructor/
+
+# Python virtual environment and caches
+.venv/
+__pycache__/
+
+# Rebuilt by project-01-web-analytics/python/01_clean_and_model.py (about 40 MB)
+project-01-web-analytics/data/cediflow_web.db

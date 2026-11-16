@@ -1,0 +1,66 @@
+{
+  "ad_spend": {
+    "rows_raw": 671,
+    "duplicate_rows_removed": 6,
+    "rows_clean": 665,
+    "cost_raw_ghs": 22457.27,
+    "cost_clean_ghs": 22218.16
+  },
+  "events_raw_rows": 123435,
+  "duplicate_events_removed": 1818,
+  "duplicate_sign_up_events_removed": 36,
+  "events_without_session_id_removed": 400,
+  "distinct_ga_session_id": 33267,
+  "distinct_session_key": 33369,
+  "label_rows_changed": {
+    "source": 6220,
+    "medium": 8000,
+    "campaign": 5064
+  },
+  "distinct_labels": {
+    "source": {
+      "before": 20,
+      "after": 12
+    },
+    "medium": {
+      "before": 14,
+      "after": 7
+    },
+    "campaign": {
+      "before": 31,
+      "after": 11
+    }
+  },
+  "paid_sessions_missing_campaign": 406,
+  "sessions_before_filters": 33369,
+  "signups_before_filters": 2549,
+  "removed": {
+    "internal_qa": {
+      "sessions": 221,
+      "sign_ups": 123
+    },
+    "scanner_bot": {
+      "sessions": 973,
+      "sign_ups": 0
+    },
+    "uptime_monitor": {
+      "sessions": 1008,
+      "sign_ups": 0
+    }
+  },
+  "scanner_probe_path_share_pct": 64.7,
+  "uptime_monitor_client_ids": 1,
+  "conversion_before_filters_pct": 7.64,
+  "direct_channel": {
+    "sessions_before": 7436,
+    "sessions_after": 5234,
+    "conversion_before_pct": 10.95,
+    "conversion_after_pct": 13.2
+  },
+  "sessions_region_not_set": 1143,
+  "sessions_clean": 31167,
+  "users_clean": 24559,
+  "signups_clean": 2426,
+  "conversion_clean_pct": 7.78,
+  "events_clean_rows": 115859
+}

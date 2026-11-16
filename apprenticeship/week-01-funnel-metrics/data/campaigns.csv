@@ -1,0 +1,15 @@
+campaign_id,campaign_name,channel,start_date,end_date
+C01,GGL_Search_Brand_AlwaysOn,Google Ads,2026-01-01,2026-03-31
+C02,GGL_Search_Generic_SendMoney,Google Ads,2026-01-01,2026-03-31
+C03,GGL_YouTube_LaunchFilm,Google Ads,2026-01-05,2026-01-25
+C04,META_Prospecting_Launch,Meta Ads,2026-01-05,2026-01-31
+C05,META_Retargeting_IncompleteSignup,Meta Ads,2026-01-12,2026-03-31
+C06,REF_Give10_Get10,Referral,2026-01-12,2026-02-28
+C07,INF_Wave1_LifestyleCreators,Influencer,2026-01-19,2026-02-08
+C08,META_Lookalike_HighValue,Meta Ads,2026-02-01,2026-03-31
+C09,GGL_UAC_AppInstalls,Google Ads,2026-02-02,2026-03-31
+C10,TT_Spark_CashbackChallenge,TikTok Ads,2026-02-16,2026-03-15
+C11,REF_DoubleBonus_March,Referral,2026-03-01,2026-03-31
+C12,INF_Wave2_FinanceCreators,Influencer,2026-03-02,2026-03-22
+C13,META_IndependenceDay_Promo,Meta Ads,2026-03-02,2026-03-08
+C14,TT_InFeed_StudentPromo,TikTok Ads,2026-03-02,2026-03-31
